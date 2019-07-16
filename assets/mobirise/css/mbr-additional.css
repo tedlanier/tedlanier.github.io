@@ -949,46 +949,6 @@ body {
 .cid-rvLdsRcRB9 a.close:hover {
   color: #ffffff;
 }
-.cid-rw1I4T6gcw {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rw1I4T6gcw h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rw1I4T6gcw .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-rw1I4T6gcw .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rw1I4T6gcw .pie_progress__number {
-  text-align: center;
-}
-.cid-rw1I4T6gcw .card-title {
-  margin-bottom: 0;
-}
-.cid-rw1I4T6gcw .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-rw1I4T6gcw .svg-gradient {
-  position: absolute;
-}
-.cid-rw1I4T6gcw ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rw1I4T6gcw .card {
-    -webkit-flex-basis: 50%;
-    flex-basis: 50%;
-  }
-}
 .cid-rw1HqYchNZ {
   padding-top: 60px;
   padding-bottom: 60px;
